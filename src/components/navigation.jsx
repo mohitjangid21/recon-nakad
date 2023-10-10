@@ -61,7 +61,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='https://app-test.nakad.co/' className='page-scroll try_for_free' target="_blank">
+              <a href='https://magic.nakad.co/' className='page-scroll try_for_free' target="_blank">
               Try For Free
               </a>
             </li>
