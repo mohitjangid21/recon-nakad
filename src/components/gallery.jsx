@@ -7,19 +7,20 @@ export const Gallery = (props) => {
 }
 
 const rows = [
-  createData('Balance confirmation Bulk email', 'Yes', 'Yes', 'Yes', 'Yes'),
-  createData('Ledger Request Bulk email','Yes', 'Yes', 'Yes', 'Yes'),
-  createData('Automated Ledger reconciliation', 'No', 'No', 'No', 'No'),
-  createData('Automated Payment advice reconciliation', 'No', 'No', 'No', 'Yes'),
-  createData('Accounts Payable recon insights', 'No', 'No', 'No', 'Yes'),
-  createData('Accounts Receivable recon insights', 'No', 'No', 'No', 'Yes'),
-  createData('Accounts Recon Signoff Report', 'No', 'No', 'No', 'Yes'),
-  createData('Dunning Letter Bulk email', 'No', 'No', 'Yes', 'Yes'),
-  createData('MSME status update in bulk', 'No', 'No', 'Yes', 'Yes'),
+  createData('Balance confirmation Bulk email', '✅', '✅', '✅', '✅'),
+  createData('Ledger Request Bulk email','✅', '✅', '✅', '✅'),
+  createData('Automated Ledger reconciliation', '❌', '❌', '❌', '❌'),
+  createData('Automated Payment advice reconciliation', '❌', '❌', '❌', '✅'),
+  createData('Accounts Payable recon insights', '❌', '❌', '❌', '✅'),
+  createData('Accounts Receivable recon insights', '❌', '❌', '❌', '✅'),
+  createData('Accounts Recon Signoff Report', '❌', '❌', '❌', '✅'),
+  createData('Dunning Letter Bulk email', '❌', '❌', '✅', '✅'),
+  createData('MSME status update in bulk', '❌', '❌', '✅', '✅'),
   createData('Business Partners Addition ', '50', '500', 'Unlimited', 'Unlimited'),
-  createData('Free Integration Included', 'No', 'No', 'Yes', 'Yes'),
+  createData('Free Integration Included', '❌', '❌', '✅', '✅'),
   createData('Price (INR)', '', '5,000', '10,000', 'Contact Sales'),
 ];
+
 
   return (
     <div id='portfolio' className='text-center'>

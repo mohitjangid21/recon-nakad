@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-           NAKAD
+          <span style={{color:'#531c4c'}}>NAKAD</span>
           </a>{' '}
         </div>
 

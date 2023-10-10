@@ -4,18 +4,16 @@
     "paragraph": "India’s first and only online platform to manage your confirmations on click "
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "NAKAD is led by Ujwal Kalra, Sambhav Jain and Avinash Uttav who come from rich background of IIT-IIMs. Mr Kalra hails from a family of Chartered Accountants with his father serving as the Ex-Chairman of MMTC. Recognizing the challenges in reconciliation across industries, Ujwal along with his co-founders developed RECON360, an AI-ML enabled platform. It automates AR and AP reconciliation, providing a one-stop dashboard for ledger discrepancies, streamlining the process, and enhancing dispute resolution. Join us in revolutionizing reconciliation. Our mission is to leverage technology to empower the Accounts Team, helping them boost their net profits by preventing revenue leakages. Developing touchless balance confirmation and ledger reconciliation software capable of automatically confirming critical data points and identifying potential revenue leakages",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Balance confirmation",
+      "Reconciliation Dashboard",
+      "MSME status",
+      "Ledger request"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Automated Reconciliation",
+      "ERP Integration"
     ]
   },
   "Gallery": [
@@ -67,35 +65,40 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-check",
       "name": "Balance confirmation",
       "text": "Confirm closing balance with your business partners in one click."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-bar-chart",
       "name": "Reconciliation Dashboard ",
       "text": "All your AP and AR insights at one location."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-certificate",
       "name": "MSME status",
       "text": "Unique platform to collect and validate the status of your vendors "
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-file-text",
       "name": "Ledger request",
       "text": "Get ledgers from all of your business partners in one click. "
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-magic",
       "name": "Automated Reconciliation",
       "text":  "AI-ML based end-to-end reconciliation tool."
+    },
+    {
+      "icon": "fa fa-link",
+      "name": "ERP Integration",
+      "text":  "Seamless integration with your ERP."
     }
     
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "",
       "text": "The balance confirmation automation tool is a game-changer! It's made our reconciliation process faster and error-free. Highly recommended!",
       "name": "Ratan Singh, Finance Controller, Blackberrys"
     },
@@ -108,21 +111,6 @@
       "img": "img/testimonials/03-v.png",
       "text": "AI-ML Recon tool of NAKAD has increased our coverage. We are able to reconcile with more than 80% of our vendors which was earlier around 30%.",
       "name": "Vivek Bansal, Finance Controller, Ralson "
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
     }
   ],
   "Team": [

@@ -12,8 +12,9 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='#features'
+                 href='https://magic.nakad.co/'
                   className='btn btn-custom btn-lg page-scroll '
+                  target="_blank"
                 >
                  Free Trial
                 </a>{' '}
