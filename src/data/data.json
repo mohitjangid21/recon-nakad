@@ -4,7 +4,7 @@
     "paragraph": "India’s first and only online platform to manage your confirmations on click "
   },
   "About": {
-    "paragraph": "NAKAD is led by Ujwal Kalra, Sambhav Jain and Avinash Uttav who come from rich background of IIT-IIMs. Mr Kalra hails from a family of Chartered Accountants with his father serving as the Ex-Chairman of MMTC. Recognizing the challenges in reconciliation across industries, Ujwal along with his co-founders developed RECON360, an AI-ML enabled platform. It automates AR and AP reconciliation, providing a one-stop dashboard for ledger discrepancies, streamlining the process, and enhancing dispute resolution. Join us in revolutionizing reconciliation. Our mission is to leverage technology to empower the Accounts Team, helping them boost their net profits by preventing revenue leakages. Developing touchless balance confirmation and ledger reconciliation software capable of automatically confirming critical data points and identifying potential revenue leakages",
+    "paragraph": "NAKAD, founded by CAs and graduates of IITs and IIMs. With deep experience of CAs and cutting edge knowledge of AI, the team has solved the painstaking problem of balance confirmation and reconciliation.<br/> The platform automates AR and AP reconciliation, providing a one-stop dashboard for balance confirmation, ledger procurement, reconciling the ledgers and arming you for dispute resolution.<br/> The company has raised one of the largest seed rounds in India from two of the largest global investors, Accel and Matrix Partners, along with pioneering investors.<br/> 200+ Anchors, 30,000+ BPs, 25,000 balances confirmed, 1.12 lakh Cr Reconciled value etc.",
     "Why": [
       "Balance confirmation",
       "Reconciliation Dashboard",
@@ -98,7 +98,7 @@
   ],
   "Testimonials": [
     {
-      "img": "",
+      "img": "data:image/jpeg;base64,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",
       "text": "The balance confirmation automation tool is a game-changer! It's made our reconciliation process faster and error-free. Highly recommended!",
       "name": "Ratan Singh, Finance Controller, Blackberrys"
     },
@@ -136,7 +136,7 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "204, ABW tower, Sector 25, Gurugram, Sarhol, Haryana 122022",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",

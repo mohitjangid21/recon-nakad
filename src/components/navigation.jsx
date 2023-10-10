@@ -15,8 +15,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-          <span style={{color:'#531c4c'}}>NAKAD</span>
+          <a className='navbar-brand page-scroll logo_anch' href='#page-top'>
+          {/* <span style={{color:'#531c4c'}}>NAKAD</span> */}
+          <img src="https://app-test.nakad.co/static/media/NAKAD_FINAL%20(1).3017dcc623651a172760.png" alt=""  className="logo_width"/>
           </a>{' '}
         </div>
 
@@ -24,7 +25,7 @@ export const Navigation = (props) => {
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className='nav navbar-nav navbar-right vertical_center'>
             {/* <li>
               <a href='#features' className='page-scroll'>
                 Features

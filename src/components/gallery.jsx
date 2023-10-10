@@ -19,6 +19,12 @@ const rows = [
   createData('Business Partners Addition ', '50', '500', 'Unlimited', 'Unlimited'),
   createData('Free Integration Included', '❌', '❌', '✅', '✅'),
   createData('Price (INR)', '', '5,000', '10,000', 'Contact Sales'),
+  createData('',
+  <button className="br_8">Sign in</button>,
+  <button className="br_8">Buy Now</button>,
+  <button className="br_8">Buy Now</button>,
+  <button className="br_8">Buy Now</button>
+),
 ];
 
 
@@ -28,8 +34,7 @@ const rows = [
         <div className='section-title'>
           <h2>Pricing</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Choose the plan that suits you, with the flexibility to upgrade anytime.
           </p>
         </div>
         <div className='row'>
@@ -47,13 +52,13 @@ const rows = [
         <TableHead>
           <TableRow >
             <TableCell className="fs_20 pricing_header">Features</TableCell>
-            <TableCell className="fs_20 pricing_header">FREE</TableCell>
-            <TableCell  className="fs_20 pricing_header">SILVER</TableCell>
-            <TableCell className="fs_20 pricing_header">GOLD</TableCell>
-            <TableCell  className="fs_20 pricing_header">PLATINUM</TableCell>
+            <TableCell className="fs_20 pricing_header txt_center">FREE</TableCell>
+            <TableCell  className="fs_20 pricing_header txt_center">SILVER</TableCell>
+            <TableCell className="fs_20 pricing_header txt_center">GOLD</TableCell>
+            <TableCell  className="fs_20 pricing_header txt_center">PLATINUM</TableCell>
           </TableRow>
         </TableHead>
-        <TableBody>
+        <TableBody className="txt-cap">
           {rows.map((row) => (
             <TableRow
               key={row.name}
@@ -62,10 +67,10 @@ const rows = [
               <TableCell component="th" scope="row" className="fs_18">
                 {row.name}
               </TableCell>
-              <TableCell className="fs_18">{row.calories}</TableCell>
-              <TableCell className="fs_18">{row.fat}</TableCell>
-              <TableCell className="fs_18">{row.carbs}</TableCell>
-              <TableCell  className="fs_18">{row.protein}</TableCell>
+              <TableCell className="fs_18 txt_center">{row.calories}</TableCell>
+              <TableCell className="fs_18 txt_center">{row.fat}</TableCell>
+              <TableCell className="fs_18 txt_center">{row.carbs}</TableCell>
+              <TableCell  className="fs_18 txt_center">{row.protein}</TableCell>
             </TableRow>
           ))}
         </TableBody>
