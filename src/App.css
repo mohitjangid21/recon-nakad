@@ -42,3 +42,25 @@
   border-radius: 8px !important;
   border: none !important;
 }
+.vertical_center{
+  align-items: center;
+    display: flex;
+}
+.logo_anch{
+  align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.logo_width{
+  width: 130px;
+}
+.txt-cap{
+  text-transform: capitalize;
+}
+.txt_center{
+  text-align: center !important;
+}
+.br_8{
+  border-radius: 8px;
+}
